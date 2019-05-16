@@ -69,9 +69,9 @@ Window {
                 onCheckedChanged: {
                     if(checked == false) {
                         logRectangle.state = "collapsed";
-                        window.width = window.width - 272;
+                        //window.width = window.width - 272;
                     } else {
-                        window.width = window.width + 272;
+                        //window.width = window.width + 272;
                         logRectangle.state = "expand";
                     }
                 }

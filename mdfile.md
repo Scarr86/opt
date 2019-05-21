@@ -1,7 +1,7 @@
-My md file
+[x]My md file
 
-first commit;
+[x]first commit;
 
-second commit;
+[]second commit;
 
-three commit;
+[]three commit;
